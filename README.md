@@ -65,7 +65,6 @@ Why? — Allows Synapse SQL serverless pools to query data directly from Azure S
 
 # Final Dashboard 
 Here is the final Power BI Dashboard created from the Gold Layer:  
-![Dashboard_Image](https://github.com/Charan282/Azure_Databricks_AdventureWorks_Data_Engineering_Project/blob/main/Screenshots/Dashboard_Using_Gold_Layer.png)
 
 
 # Key Learnings  
